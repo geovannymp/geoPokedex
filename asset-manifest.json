@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/geoPokedex/static/css/main.19a50b3e.css",
+    "main.js": "/geoPokedex/static/js/main.e38618ba.js",
+    "index.html": "/geoPokedex/index.html",
+    "main.19a50b3e.css.map": "/geoPokedex/static/css/main.19a50b3e.css.map",
+    "main.e38618ba.js.map": "/geoPokedex/static/js/main.e38618ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19a50b3e.css",
+    "static/js/main.e38618ba.js"
+  ]
+}
