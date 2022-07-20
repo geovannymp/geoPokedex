@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/geoPokedex/static/css/main.c12c4ae7.css",
-    "main.js": "/geoPokedex/static/js/main.e34469b7.js",
+    "main.css": "/geoPokedex/static/css/main.1497404c.css",
+    "main.js": "/geoPokedex/static/js/main.21eae218.js",
     "index.html": "/geoPokedex/index.html",
-    "main.c12c4ae7.css.map": "/geoPokedex/static/css/main.c12c4ae7.css.map",
-    "main.e34469b7.js.map": "/geoPokedex/static/js/main.e34469b7.js.map"
+    "main.1497404c.css.map": "/geoPokedex/static/css/main.1497404c.css.map",
+    "main.21eae218.js.map": "/geoPokedex/static/js/main.21eae218.js.map"
   },
   "entrypoints": [
-    "static/css/main.c12c4ae7.css",
-    "static/js/main.e34469b7.js"
+    "static/css/main.1497404c.css",
+    "static/js/main.21eae218.js"
   ]
 }
